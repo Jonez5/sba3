@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: rgba(141, 4, 4, 0.788);
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    
+  }
+  
+  #character-info {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 10px;
+    /* background-color: black; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  } 
+  
+  .optionKey {
+    background-color: black;
+  }
+
+  p {
+    color: white;
+  }
+
+p a {
+    color:  white;
+}
